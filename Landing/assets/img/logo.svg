@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 794 1122.5601"
+   height="1122.5601"
+   width="794"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         style="clip-rule:evenodd"
+         id="path16"
+         d="M 0,112.50001 H 2481.2502 V 3390.6252 L 0,3390.6252 Z" /></clipPath></defs><g
+     transform="matrix(0.31999998,0,0,0.31999998,0,5.4730666e-5)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           transform="matrix(3.1250002,0,0,3.1250002,0,112.50001)"
+           id="g20"><path
+             id="path22"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 H 794 V 47 H 0 Z" /><path
+             id="path24"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 H 794 V 47 H 0 Z" /><text
+             id="text28"
+             style="font-variant:normal;font-weight:normal;font-size:33.33000183px;font-family:ComicSansMS;-inkscape-font-specification:ComicSansMS;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(37,36)"><tspan
+               id="tspan26"
+               y="0"
+               x="0 22.65271 38.665833 55.720459 71.928864 90.187729 99.317169 109.27655 130.09036 147.14499 163.36967">Travel Ease</tspan></text>
+</g></g></g></g></svg>
